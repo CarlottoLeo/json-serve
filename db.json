@@ -1,0 +1,76 @@
+{
+  "login": [
+    {
+      "email": "admin1",
+      "password": "admin1",
+      "id": 1
+    },
+    {
+      "email": "admindasda",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "email": "carlotto@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "carlotto@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "email": "admindada",
+      "password": "admin",
+      "id": 5
+    },
+    {
+      "email": "admindd",
+      "password": "admin",
+      "id": 6
+    },
+    {
+      "email": "Carlotto@gmail.com",
+      "password": "123456",
+      "id": 7
+    }
+  ],
+  "register": [
+    {
+      "name": "Carlotto",
+      "cpf": "3333333333",
+      "genero": "masculino",
+      "email": "carlotto@gmail.com",
+      "password": "123456",
+      "confirmation_password": "123456",
+      "phone": "1234568",
+      "function": "prof",
+      "stars": "4,6",
+      "id": 1,
+      "descricao": "Encanador a mais de 10 anos, trabalho com tias ferramentas e realizo os tais serviços...",
+      "profession": [
+        "Borracheiro"
+      ],
+      "lat": "-21.3568",
+      "log": "-46.633309"
+    },
+    {
+      "name": "fulano",
+      "cpf": "1111111111",
+      "cnpj": "",
+      "genero": "feminino",
+      "email": "fulano@hotmail.com",
+      "password": "123456",
+      "confirmation_password": "123456",
+      "phone": "8989898",
+      "lat": "-27.644444",
+      "log": "-52.258678",
+      "function": "prof",
+      "stars": "3,7",
+      "profession": "Eletricista",
+      "descricao": "Eletricista no ramo a mais de 20 anos, realizando trabalhos completos em casa, apartamentos e industrias...",
+      "id": 2
+    }
+  ]
+}
