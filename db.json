@@ -89,7 +89,7 @@
       "id": 3
     },
     {
-      "name": "Juca",
+      "name": "José",
       "cpf": "123.321.123-54",
       "cnpj": "",
       "genero": "masculino",
@@ -101,8 +101,8 @@
       "log": "-52.265510",
       "function": "prof",
       "stars": "3,7",
-      "profession": "Eletricista",
-      "descricao": "Eletricista no ramo a mais de 20 anos, realizando trabalhos completos em casa, apartamentos e industrias...",
+      "profession": "Encanador",
+      "descricao": "Encanador no ramo a mais de 20 anos, realizando trabalhos completos em casa, apartamentos e industrias...",
       "id": 4
     }
   ]
