@@ -52,7 +52,7 @@
       "stars": "4,7",
       "profession": "Mecânico",
       "descricao": "Mecânico no ramo a mais de 20 anos, realizando trabalhos completos em casa, apartamentos e industrias...",
-      "id": 2
+      "id": 1
     },
     {
       "name": "Julia",
@@ -86,7 +86,7 @@
       "stars": "3,7",
       "profession": "Eletricista",
       "descricao": "Eletricista no ramo a mais de 20 anos, realizando trabalhos completos em casa, apartamentos e industrias...",
-      "id": 2
+      "id": 3
     }
   ]
 }
