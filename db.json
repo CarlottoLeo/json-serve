@@ -55,14 +55,15 @@
       "id": 1
     },
     {
-      "name": "Julia",
+      "name": "Cristian",
       "cpf": "123.321.123-54",
       "cnpj": "",
       "genero": "feminino",
-      "email": "julia@hotmail.com",
+      "email": "cristian@hotmail.com",
       "password": "123456",
       "confirmation_password": "123456",
-      "phone": "(54) 9 99878554",
+      "phone": "(54) 91679147",
+      "whats": "5491679147",
       "lat": "-27.648273",
       "log": "-52.257411",
       "function": "prof",
